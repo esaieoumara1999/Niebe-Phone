@@ -1,0 +1,19 @@
+.spot{
+    background-image: url(image/spot.jpeg);
+    background-size: cover;  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.navbar{
+    background-color: rgba(0,0,0,.4);
+}
+.meta{
+    width: 35vh;
+}
+.action{
+    width: 15vh;
+}
+footer{
+    background-color: black;
+}

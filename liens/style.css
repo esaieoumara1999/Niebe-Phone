@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: rgba(0,0,0,.4);
+}
+.diagnostic{
+    background-color: white !important;
+}
+.image{
+    background-image: url(image/adobe.jpeg);
+    background-size: cover;  
+}
+.spot{
+    background-image: url(image/spot.jpeg);
+    background-size: cover;  
+}
+.seul{
+    color: floralwhite;
+}
+.learn{
+    width: 35vh;
+    height: auto;
+}
+footer{
+    background-color: black;
+}
